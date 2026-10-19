@@ -3,7 +3,7 @@
 void Accept(int iNo)
 {
     int iCnt =0;
-    for(iCnt=1 ; iCnt<=iNo ; iCnt++)
+    for(iCnt=1 ; iCnt<=5 ; iCnt++)
     {
         printf("*\t");
     }
@@ -11,9 +11,7 @@ void Accept(int iNo)
 int main()
 {
     int iValue = 0;
-    
-    printf("Enter number :");
-    scanf("%d",&iValue);
+    iValue = 5;
 
     Accept(iValue);
 
