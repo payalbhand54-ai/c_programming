@@ -1,3 +1,12 @@
+////////////////////////////////////////////
+//Function Name:Check
+//Discription:it is used to check number is divisible by 5 or not  
+//Input: Int
+//Output:Int
+//Date:21/10/2026
+//Author:payal machhindra bhand
+////////////////////////////////////////////
+
 #include<stdio.h>
 
 typedef int BOOL;

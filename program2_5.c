@@ -1,3 +1,12 @@
+////////////////////////////////////////////
+//Function Name:CheckEven
+//Discription:it is used to check number is even or odd
+//Input: Int
+//Output:Int
+//Date:21/10/2026
+//Author:payal machhindra bhand
+////////////////////////////////////////////
+
 #include<stdio.h>
 
 #define TRUE 1

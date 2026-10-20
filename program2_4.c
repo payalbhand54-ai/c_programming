@@ -1,3 +1,12 @@
+////////////////////////////////////////////
+//Function Name:Display
+//Discription:it is used to print first number of second number
+//Input: Int , Int
+//Output:Int
+//Date:21/10/2026
+//Author:payal machhindra bhand
+////////////////////////////////////////////
+
 #include<stdio.h>
 
 void Display(int iNo , int iFrequency)

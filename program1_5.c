@@ -1,3 +1,12 @@
+////////////////////////////////////////////
+//Function Name:Accept
+//Discription:it is used to print 5 times *
+//Input: Int
+//Output:Int
+//Date:21/10/2026
+//Author:payal machhindra bhand
+////////////////////////////////////////////
+
 #include<stdio.h>
 
 void Accept(int iNo)

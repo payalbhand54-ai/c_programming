@@ -1,3 +1,13 @@
+////////////////////////////////////////////
+//Function Name:Divide
+//Discription:it is used to check first number is 
+//             divisible by second number or not  
+//Input: Int , int
+//Output:Int
+//Date:21/10/2026
+//Author:payal machhindra bhand
+////////////////////////////////////////////
+
 #include<stdio.h>
 
 int Divide(int iNo1,int iNo2)
