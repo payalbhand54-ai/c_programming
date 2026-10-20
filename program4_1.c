@@ -1,6 +1,6 @@
 ////////////////////////////////////////////
 //Function Name:CheckNumber
-// Discription : check number prsitive , negative or zero
+// Discription : check number positive , negative or zero
 //Input: Integer
 //Output:integer
 //Date:21/10/2026
