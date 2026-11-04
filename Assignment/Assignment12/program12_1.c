@@ -1,9 +1,9 @@
 // ////////////////////////////////////////////////////////////////
 //
-// Function Name : DisplayRange
-// Description   : Display number in between Range.
-// Input         : Accept Starting and Ending Number
-// Output        : Display number betwwen Starting and Ending Numbers
+// Function Name : DisplayDigit
+// Description   : Display Digit in reverse order.
+// Input         : Accept Number
+// Output        : Display Digit
 // Author        : Payal Machhindra Bhand
 // Date          : 03/11/2026
 //
