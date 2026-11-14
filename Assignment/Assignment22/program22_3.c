@@ -2,7 +2,7 @@
 //     Funtion name :   Pattern
 //     Description  :   accept number from user and display below patttern 
 //     Input        :   5
-//     Output       :   1   *   2   *   3   8   4   *   5   *
+//     Output       :   1   *   2   *   3   *   4   *   5   *
 //     Author       :   Payal Machhindra Bhand
 //     Date         :   14/11/2026
 // 
